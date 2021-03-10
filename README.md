@@ -7,3 +7,6 @@ The microcontroller designed in this assignment is a simplified version of a CPU
 3)	No overflow detection is required.
 4)	The CPU has a synchronous reset rst. That resets all registers to zero.
 
+![alt text](https://github.com/anmelus/Simple-CPU/blob/main/datapath.png)
+
+![alt text](https://github.com/anmelus/Simple-CPU/blob/main/controller.png)
